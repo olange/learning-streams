@@ -1,6 +1,6 @@
 # Learning Streams and Observables
 
-Learning using Streams, Observables and Transforms with JavaScript – articles, useful resources, courseware, personal notes.
+Learning using Streams, Observables and Transforms with JavaScript – articles, useful resources, personal notes.
 
 ## Articles: first principles
 
@@ -17,3 +17,9 @@ Learning using Streams, Observables and Transforms with JavaScript – articles,
 ## Supporting and related technologies
 
 (TBC)
+
+## Additional resources
+
+### Streams, Fetch and Service Workers
+
+* [GitHub › AnthumChris › Fetch progress indicators](https://github.com/AnthumChris/fetch-progress-indicators) _Provides working examples for implementing progress bars and progress indicators with the [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API), [Streams API](https://developer.mozilla.org/en-US/docs/Web/API/Streams_API), and [Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)._
