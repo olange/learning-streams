@@ -1,6 +1,6 @@
 # Learning Streams and Observables
 
-Learning using Streams, Observables and transforms – articles, useful resources, courseware, personal notes.
+Learning using Streams, Observables and Transforms with JavaScript – articles, useful resources, courseware, personal notes.
 
 ## Articles: first principles
 
