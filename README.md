@@ -16,7 +16,7 @@ Learning using Streams, Observables and Transforms with JavaScript – articles,
 
 ## Supporting and related technologies
 
-(TBC)
+* [Learning Service Workers](https://github.com/olange/learning-service-workers) _Learning using Service Workers, Web Workers and App Cache – articles, useful resources, courseware, personal notes_
 
 ## Additional resources
 
