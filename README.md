@@ -16,7 +16,9 @@ Learning using Streams, Observables and Transforms with JavaScript – articles,
 
 ## Supporting and related technologies
 
-* TBC
+### RxJS
+
+* [Reactive.how](https://reactive.how/reduce)
 
 ## Additional resources
 
