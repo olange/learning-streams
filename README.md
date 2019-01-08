@@ -9,6 +9,8 @@ Learning using Streams, Observables and Transforms with JavaScript – articles,
 * [WhatWG › Streams Living Standard](https://streams.spec.whatwg.org/) 
 * [MDN › Streams API](https://developer.mozilla.org/en-US/docs/Web/API/Streams_API) along with its [directory of examples](https://github.com/mdn/dom-examples/tree/master/streams)
 * [The Year of the Streams](https://jakearchibald.com/2016/streams-ftw/) Jake Archibald, 25.01.2016
+* [@thi.ng/rstream](https://github.com/thi-ng/umbrella/blob/master/packages/rstream/README.md) Karsten Schmidt
+* [@thi.ng/transducers](https://github.com/thi-ng/umbrella/blob/master/packages/transducers/README.md) Karsten Schmidt
 
 ### Observables
 
