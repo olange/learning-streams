@@ -1,4 +1,4 @@
-const { Observable } = require( "rxjs");
+const { Observable } = rxjs;
 
 const foo = new Observable(subscriber => {
   console.log('Hello');
