@@ -1,0 +1,25 @@
+{
+  "name": "01-rxjs-intro",
+  "version": "1.0.0",
+  "description": "First steps with RxJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olange/learning-streams/experiments/01-rxjs-intro"
+  },
+  "keywords": [
+    "streams",
+    "observable",
+    "rxjs",
+    "experiment"
+  ],
+  "author": "Olivier Lange",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "rxjs": "^6.4.0"
+  }
+}
