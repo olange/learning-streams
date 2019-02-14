@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v4.json",
-  "title": "Color of time",
+  "title": "Color of Time",
   "width": 600,
   "height": 500,
   "padding": 5,
@@ -81,13 +81,15 @@
           "y": { "scale": "yscale", "field": "y0" },
           "y2": { "scale": "yscale", "field": "y1" },
           "fill": { "scale": "color", "field": "Task" },
+          "stroke": { "value": "#ffffff"},
+          "strokeWidth": { "value": 0.5 },
           "tooltip": { "field": "Task" }
         },
         "update": {
-          "fillOpacity": {"value": 1}
+          "fillOpacity": { "value": 1 }
         },
         "hover": {
-          "fillOpacity": {"value": 0.5}
+          "fillOpacity": { "value": 0.5 }
         }
       }
     }
