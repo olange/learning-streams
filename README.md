@@ -20,11 +20,9 @@ Learning using Streams, Observables and Transforms with JavaScript – articles,
 
 ## Supporting and related technologies
 
-### RxJS
+### Async iteration
 
-* [Reactive.how](https://reactive.how/reduce)
-
-## Additional resources
+* [Async Iteration & Streams — Why Async Iterators Matter ](https://docs.google.com/presentation/d/1r2V1sLG8JSSk8txiLh4wfTkom-BoOsk52FgPBy8o3RM/edit#slide=id.g1236b1e2d6_0_22) Benjamin Gruenbaum, 08.04.2016 (présentation, 54 slides)
 
 ### Service workers
 
@@ -33,3 +31,7 @@ Learning using Streams, Observables and Transforms with JavaScript – articles,
 ### Streams, Fetch and Service Workers
 
 * [GitHub › AnthumChris › Fetch progress indicators](https://github.com/AnthumChris/fetch-progress-indicators) _Provides working examples for implementing progress bars and progress indicators with the [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API), [Streams API](https://developer.mozilla.org/en-US/docs/Web/API/Streams_API), and [Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)._
+
+### RxJS
+
+* [Reactive.how](https://reactive.how/reduce)
